@@ -36,7 +36,7 @@ This repository contains the solution for the DevOps & Software Testing exam, En
 
 #### End-to-End Tests
 
-- Implemented end-to-end tests for the `MathController` using `TestRestTemplate`.
+- Implemented end-to-end tests for the `MathController`.
 
 ### 7. Test Folder Structure
 
